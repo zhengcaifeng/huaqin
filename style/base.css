@@ -1,0 +1,16 @@
+body,h1,h2,h3,h4,h5,h6 {font-size:14px; font-family:"Microsoft YaHei",arial,sans-serif;}
+
+body,p,h1,h2,h3,h4,h5,h6,dl,dd,form,select {margin:0;}
+em{font-style:normal;}
+
+ol,ul {list-style:none; padding:0; margin:0;}
+a {text-decoration:none; outline:none;}
+a:hover {text-decoration:underline;}
+img {border:none; vertical-align:top;}
+select,input{ vertical-align:top; }
+
+input, textarea {margin:0; padding:0; resize:none; overflow:auto; outline:none;}
+
+th,td{padding:0;}
+table{border-collapse:collapse;}
+
